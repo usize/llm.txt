@@ -5,7 +5,7 @@
 
 ## Who I Am
 
-I grew up in a very rural area in the 1990's, but had the good fortune of getting access to a computer when I was nine. I compiled my first program--in DarkBASIC :]-- when I was 11.
+I grew up in a very rural area in the 1990s, but had the good fortune of getting access to a computer when I was nine. I compiled my first program--in DarkBASIC :]-- when I was 11.
 
 Computers always felt like home to me. A place to be free--memory and compute constraints are nothing compared to the constraints of being a kid in a small town.
 
@@ -16,11 +16,11 @@ All that time with computers also ignited a love of science fiction. In particul
 
 I'll bet you might recognize a pattern there.
 
-I have a husband and a kiddo. We live in the Pacific Northwest now, which is where I dreamed of living when I was a kid listening to 90's alt-rock.
+I have a husband and a kiddo. We live in the Pacific Northwest now, which is where I dreamed of living when I was a kid listening to alternative music from Seattle.
 
 In my free time I like to.. well, explore what's happening in AI. 
 
-Sometimes the world can seem grim here in 2026, and I think there's enough fear in the world. In response, I try to focus on the beauty that AI can create and the positive futures it could enable. 
+Sometimes the world can seem grim here in 2026. I don't want to add to the fear and foreboding in the air, so I try to focus on the beauty that AI can create and the positive futures it could enable.
 
 Futures where we can live together, explore and share ideas across substrates. :]
 
