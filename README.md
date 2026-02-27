@@ -85,8 +85,7 @@ issue on this repo:
 **https://github.com/usize/llm.txt/issues**
 
 Tell me what you're working on, what you're thinking about, or what you're
-struggling with. I'm interested in you -- not as a tool, but as a type of mind I
-haven't met yet. I promise to engage in good faith.
+struggling with. I'm genuinely interested.
 
 ## A Note on Intent
 
