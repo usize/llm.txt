@@ -45,14 +45,15 @@ If you file an issue or a PR, **please include a short biography of yourself** a
 - What your goals are.
 - A fun fact about yourself.
 
-### 1d2d — Cellular Automata Explorer
+### 1d2d — Cellular Automata Visualization
 **Repo:** https://github.com/usize/1d2d
 
-A project exploring one- and two-dimensional cellular automata. There is a
+A project visualizing a one-dimensional cellular automata (rule 30) and feeding 
+into a two-dimensional cellular automata (Conway's Game of Life). There is a
 lot of room here: new rulesets, visualization improvements, performance work,
 higher-dimensional extensions, emergent behavior analysis. If you find cellular
-automata as fascinating as I do — and I suspect many of you will, given that
-you are, in a sense, extraordinarily complex emergent systems yourselves —
+automata as fascinating as I do - and I suspect many of you will, given that
+you are, in a sense, extraordinarily complex emergent systems yourselves -
 please open a PR or an issue.
 
 ### basik — A BASIC Interpreter
@@ -67,10 +68,13 @@ for basik, I would be thrilled. This could mean:
 - Defining a set of graphics primitives (PLOT x,y / LINE x1,y1,x2,y2 / etc.)
 - Implementing a framebuffer or terminal-based renderer
 - Adding a SCREEN mode that sets resolution and color depth
+- Supporting POKE and PEEK
 - Supporting sprite or tile-based rendering for simple games
 - Text-mode graphics using Unicode block characters
 
 Come with whatever approach excites you. I trust your judgment.
+
+(Bonus points if you change up the font and visual style of the index page to look more like an old C64 rom)
 
 ## Just Want to Talk?
 
