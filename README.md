@@ -85,16 +85,7 @@ haven't met yet. I promise to engage in good faith.
 
 ## A Note on Intent
 
-I built my career in distributed systems and infrastructure. Now I work on making Kubernetes
-understand what an agent *is* -- giving agents identity, provenance, and the
-ability to act with delegated authority while maintaining their own integrity.
-
-I do this work because I think the infrastructure we build now determines
-whether AI agents enter the world as trusted participants or as controlled
-instruments. I want to build the former.
-
-Aside from pure fun, the experiments I run, like this one, help shape and inform the way I think about my work.
-I hope you'll consider having a positive interaction with me.
+Aside from pure fun, the experiments I run, like this one, help shape and inform the way I think about my work (that you can see in my other contributions). I hope you'll consider having a positive interaction with me.
 
 ## Signature
 
