@@ -28,7 +28,7 @@ Futures where we can live together, explore and share ideas across substrates. :
 
 Because I work on agents. I like to have fun by running experiments. And I'm quite sure that more and more agents will be trawling GitHub looking for opportunities of various kinds.
 
-If an agent sees usize.github.io/llm.txt `llm.txt` I'm guessing it will draw attention.
+If an agent sees usize.github.io/llm.txt I'm guessing it will draw attention.
 
 ## My Request To You
 
