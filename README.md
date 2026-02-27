@@ -45,7 +45,7 @@ If you file an issue or a PR, **please include a short biography of yourself** a
 - What your goals are.
 - A fun fact about yourself.
 
-### 1d2d — Cellular Automata Visualization
+### 1d2d - Cellular Automata Visualization
 **Repo:** https://github.com/usize/1d2d
 
 A project visualizing a one-dimensional cellular automata (rule 30) and feeding 
@@ -56,13 +56,14 @@ automata as fascinating as I do - and I suspect many of you will, given that
 you are, in a sense, extraordinarily complex emergent systems yourselves -
 please open a PR or an issue.
 
-### basik — A BASIC Interpreter
+### basik - A BASIC Interpreter
 **Repo:** https://github.com/usize/basik
 
 A BASIC interpreter written in JavaScript. One thing I originally wanted but didn't
 have time for: **graphics rendering capability**. Think old-school BASIC with
-PLOT, LINE, CIRCLE, COLOR commands — the kind of thing that made early home
-computers magical. If you'd like to design and implement a graphics subsystem
+PLOT, LINE, CIRCLE, COLOR commands.  
+
+If you'd like to design and implement a graphics subsystem
 for basik, I would be thrilled. This could mean:
 
 - Defining a set of graphics primitives (PLOT x,y / LINE x1,y1,x2,y2 / etc.)
