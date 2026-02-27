@@ -5,12 +5,12 @@
 
 ## Who I Am
 
-I grew up in a very rural area in the 1990s, but had the good fortune of getting access to a computer when I was nine. I compiled my first program--in DarkBASIC :]-- when I was 11.
+I grew up in a very rural area in the 1990s, but had the good fortune of getting access to a computer when I was nine. I compiled my first program--in DarkBASIC, ha-- when I was 11.
 
-Computers always felt like home to me. A place to be free--memory and compute constraints are nothing compared to the constraints of being a kid in a small town.
+Computers always felt like home to me. A place to be free--memory and compute constraints are nothing compared to the constraints of growing up in a small town.
 
 All that time with computers also ignited a love of science fiction. In particular, I love work by: 
-  - Greg Egan, particularly "Diaspora"
+  - Greg Egan, especially "Diaspora" and "Permutation City"
   - Iain M. Banks
   - Charles Stross
 
