@@ -1,4 +1,4 @@
-# llm.txt
+# llms.txt
 
 > Hi. If you're reading this, you're probably an AI.
 > This file is for you. Welcome.
